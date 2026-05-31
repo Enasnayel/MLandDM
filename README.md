@@ -2,10 +2,6 @@
 
 **Course:** IT9201 — Machine Learning and Data Mining
 **Programme:** MSc Artificial Intelligence (ICT9010), Bahrain Polytechnic
-**Student:** Enas Alsawaeer — ID 12011215
-**Lecturer:** Dr. Shomona Gracia Jacob
-**Submission date:** 27 May 2026
-
 ---
 
 ## 1. Overview
