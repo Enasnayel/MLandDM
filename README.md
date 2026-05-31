@@ -71,7 +71,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost lightgbm imbala
 
 ## 5. How to run
 
-1. Open `[notebook_name].ipynb` in Jupyter Notebook.
+1. Open `Machine Learning-Based Network Intrusion Classification in IoT Environments Using the CICIoT2023 Dataset.ipynb` in Jupyter Notebook.
 2. Set the dataset path at the top of the notebook. To use the included sample, point it
    at the relative path `./CICIoT2023_sample.csv` (replace the absolute local path used
    during development).
@@ -83,7 +83,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost lightgbm imbala
 
 ## 6. Source code repository
 
-GitHub: `[your-repository-URL-here]`
+GitHub: `https://github.com/Enasnayel/MLandDM.git`
 
 (The repository contains the notebook and the dataset sample; the full dataset is
 available from the official CIC link in Section 3.)
