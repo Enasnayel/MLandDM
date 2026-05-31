@@ -1,7 +1,7 @@
 # ML-Based Network Intrusion Classification in IoT Environments Using the CICIoT2023 Dataset
 
 **Course:** IT9201 — Machine Learning and Data Mining
-**Programme:** MSc Artificial Intelligence (ICT9010), Bahrain Polytechnic
+**Programme:** MSc Artificial Intelligence, Bahrain Polytechnic
 ---
 
 ## 1. Overview
